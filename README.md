@@ -7,11 +7,11 @@ Sometimes the calendar apps in macOS and iOS show duplicates of some of your eve
 To show which calendar events would be removed, from Terminal run:
 
 ``` zsh
-$ ./rdce
+./rdce
 ```
 
 To actually remove duplicate calendar events, from Terminal run:
 
 ``` zsh
-$ ./rdce --remove
+./rdce --remove
 ```
